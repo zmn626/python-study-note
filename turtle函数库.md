@@ -10,10 +10,10 @@ turtle.down()
 <font color = red > **注意：后续不必写库名，直接写函数，否则会报错**</font> <br>
 ```
 from turtle import *  #引用turtle所有函数
-turtle.down()
+down()
 
 from turtle import up #引用turtle的up函数
-turtle.down()
+up()
 ```
 
 ## 二、turtle函数库语法
