@@ -1,22 +1,6 @@
-## 函数引用与Turtle库
-## 一、函数的引用
-### 1.import<库名>
-<font color = red >**注意：后续必须写库名**</font> <br>
-```
-import turtle 
-turtle.down()
-```
-### 2.form <库名> import（<函数名>）
-<font color = red > **注意：后续不必写库名，直接写函数，否则会报错**</font> <br>
-```
-from turtle import *  #引用turtle所有函数
-down()
 
-from turtle import up #引用turtle的up函数
-up()
-```
 
-## 二、turtle函数库语法
+# turtle函数库语法
 ### 1.绘图窗体坐标体系
 turtle.setup（width,height,startx,starty）<br>
 setup不是必须的
