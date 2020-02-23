@@ -6,11 +6,11 @@
 ## 教材推荐：
 《全国计算机等级考试二级教材-python语言程序设计》（2020年版）<br>
 
-<img src="https://imagehosting626.oss-cn-beijing.aliyuncs.com/img/191240311.jpg" style="zoom:10%;" />
+<img src="https://imagehosting626.oss-cn-beijing.aliyuncs.com/img/191240311.jpg" style="zoom:5%;" />
 
 《全国计算机等级考试二级教材-公共基础》（2020年版）<br>
 
-<img src="https://imagehosting626.oss-cn-beijing.aliyuncs.com/img/191240294.jpg" style="zoom:10%;" />
+<img src="https://imagehosting626.oss-cn-beijing.aliyuncs.com/img/191240294.jpg" style="zoom:5%;" />
 
 《高教版 Python语言程序设计冲刺试卷》（第2版）<br>
 
